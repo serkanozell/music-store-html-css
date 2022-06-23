@@ -1,0 +1,67 @@
+
+#site-baslik {
+    color: red;
+    text-align: center;
+}
+
+#site-navbar{
+    color: blue;
+    text-align: center;
+}
+
+#main-page-ana-sayfa{
+    color: darkblue;
+    text-align: center;
+}
+
+#main-page-description-article{
+    text-align: center;
+}
+
+.header-align-center{
+    color: rgb(223, 142, 43);
+    text-align: center;
+    font: bold;
+}
+
+.left-header-class{
+    color: rgb(223, 142, 43);
+    text-align: left;
+    font-size: 20px;
+}
+
+.font-size-16 {
+    font-size: 16px;
+}
+
+.main-page-product-list{
+    align-items: center;
+    list-style-position: inside;
+}
+
+.product-list-div{
+    text-align: center;
+    align-items: center;
+    list-style-position: inside;
+}
+
+.product-list-div-with-description{
+    text-align: center;
+    align-items: center;
+    list-style-position: inside;
+}
+
+#h4-product-details {
+    color: coral;
+    text-align: center;
+    font: bold;
+}
+
+#about-us-first-article{
+    text-align: left;
+}
+
+p {
+    text-align: left;
+    font-size: 20px;
+}
